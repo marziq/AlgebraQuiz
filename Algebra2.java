@@ -24,12 +24,13 @@ public class Alegbra2 {
 	    
 	}
 	static void greetings() {
-		  System.out.println("**********Welcome to the Algebre Quiz Show**********");
-	      System.out.println("There are 10 questions which will increase in difficulty.");
-	      System.out.print("Every question you answered correctly will give you 1 point");
-	      System.out.println(" and if you answered wrongly, you will get 0 point.");
-	      System.out.println("Your accumulated points will be turned into percentage and you will get a rating on how well you did.");
-	      System.out.println("Are you ready? Let's Start!\n\n");
+          System.out.println(" \n WELCOME TO CARAMEL ALGEBRA QUIZ !");
+          System.out.println(" ============================================= ");
+	  System.out.println(" This quiz will test your knowledge of basic algebra concepts");
+	  System.out.println(" Are you ready to get started ? ");
+          System.out.println(" LET'S GO !!! ");
+          System.out.println(" =============================================\n\n ");
+
 	}
 	static void readQuestions(String[] quest)throws IOException {
 		int i = 0;

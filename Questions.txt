@@ -1,0 +1,10 @@
+Simplify the expression: 5x + 3y - 2x
+Solve for x: 3x + 7 = 10
+Evaluate the expression: 2(A + 6)
+Simplify the expression: (4x + 2) - (3x - 5)
+Solve for x: 2(x - 3) = 4x - 5
+Evaluate the expression: 3[4 + (5 - 2)]
+Simplify the expression: (3x^2 + 2x - 1) - (2x^2 - 3x + 4)
+Evaluate the expression: (x - 1)(x + 3) = 0
+Evaluate the expression: (4x + 2)^2 - (3x - 5)^2
+Solve for x: x^2 + 2x - 3 = 0 (Positive roots only)
